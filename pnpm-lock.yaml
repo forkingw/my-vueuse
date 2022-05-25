@@ -5,6 +5,7 @@ specifiers:
   '@types/node': ^17.0.35
   '@vue/composition-api': ^1.6.2
   jest: ^28.1.0
+  rimraf: ^3.0.2
   ts-jest: ^28.0.3
   typescript: ^4.7.2
   vite: ^2.9.9
@@ -15,6 +16,7 @@ devDependencies:
   '@types/node': 17.0.35
   '@vue/composition-api': 1.6.2_vue@2.6.14
   jest: 28.1.0_@types+node@17.0.35
+  rimraf: 3.0.2
   ts-jest: 28.0.3_fc81a27b80351b0ea93cc89cb3c5aa0b
   typescript: 4.7.2
   vite: 2.9.9
