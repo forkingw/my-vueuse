@@ -8,3 +8,8 @@
 - jest.config.js
   - [ ] jest 的配置
 
+# 添加 vue @vue/composition-api
+
+# 添加 @types/node
+
+

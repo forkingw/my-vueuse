@@ -19,9 +19,12 @@
   "homepage": "https://github.com/forkingw/my-vueuse#readme",
   "devDependencies": {
     "@types/jest": "^27.5.1",
+    "@types/node": "^17.0.35",
+    "@vue/composition-api": "^1.6.2",
     "jest": "^28.1.0",
     "ts-jest": "^28.0.3",
     "typescript": "^4.7.2",
-    "vite": "^2.9.9"
+    "vite": "^2.9.9",
+    "vue": "^2.6.11"
   }
 }
